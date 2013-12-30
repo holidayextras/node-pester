@@ -1,7 +1,7 @@
 Pester
 ===
 
-*Will **pester** you, if you're running the wrong version of Node.js for your app*
+*Will __pester__ you, if you're running the wrong version of Node.js for your app*
 
 This small module will check your package.json and make sure you are running the Node.js version specfied in `package.engines.node`.
 
