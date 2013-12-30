@@ -12,7 +12,7 @@ npm install pester
 ```
 
 ## Usage
-Just require pester in your root file*(server.js)*.
+Just require pester in your root file *(server.js)*.
 
 ```
 require('pester');
