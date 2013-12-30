@@ -6,7 +6,31 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "semver": "2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:holidayextras/pester.git"
+  },
+  "keywords": [
+    "node",
+    "version",
+    "check",
+    "package",
+    "pester",
+    "dependency"
+  ],
+  "bugs": {
+    "url": "https://github.com/holidayextras/pester/issues"
+  },
+  "bin": {
+    "pester": "./index.js"
+  },
   "author": "Joe Warren <joe.warren@holidayextras.com>",
-  "contributors": ["Joe Warren <joe.warren@holidayextras.com>", "Rahul Patel <rahul.patel@holidayextras.com"],
+  "contributors": [
+    "Joe Warren <joe.warren@holidayextras.com>",
+    "Rahul Patel <rahul.patel@holidayextras.com"
+  ],
   "license": "MIT"
 }
