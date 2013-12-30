@@ -1,0 +1,12 @@
+{
+  "name": "pester",
+  "version": "0.0.1",
+  "description": "Ensure user is running correct node version for your app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Warren <joe.warren@holidayextras.com>",
+  "contributors": ["Joe Warren <joe.warren@holidayextras.com>", "Rahul Patel <rahul.patel@holidayextras.com"],
+  "license": "MIT"
+}
