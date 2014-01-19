@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:holidayextras/pester.git"
+    "url": "git@github.com:holidayextras/node-pester.git"
   },
   "keywords": [
     "node",
@@ -22,7 +22,7 @@
     "dependency"
   ],
   "bugs": {
-    "url": "https://github.com/holidayextras/pester/issues"
+    "url": "https://github.com/holidayextras/node-pester/issues"
   },
   "bin": {
     "pester": "./index.js"
